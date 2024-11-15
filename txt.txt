@@ -1,0 +1,45 @@
+tipo stýles
+styles.css
+body {
+    background-image: url( https://pa1.aminoapps.com/6523/e29e26f0af562755ffa8936617c7af4f9935c9b1_hq.gif);
+    margin: 0;  
+}
+div {
+    margin: 30px auto;
+    text-align: center;
+}
+
+#alonso1 {
+  background-color: rgb(196, 255, 196);
+  width: 400px;
+  height: 200px;
+  padding: 20px 0;
+
+  border: 13px groove silver;
+  box-sizing: border-box;
+  
+  display: block;
+}
+#jorge2 {
+  background-color: bisque;
+  width: 400px;
+  height: 200px;
+  padding: 20px 0;
+  
+  border: 13px groove silver;
+  box-sizing: border-box;
+  
+  display: block;
+}
+
+#romario3 {
+  background-color: rgb(205, 196, 255);
+  width: 400px;
+  height: 200px;
+  padding: 20px 0;
+  
+  border: 13px groove silver;
+  box-sizing: border-box;
+  
+  display: block;
+}
